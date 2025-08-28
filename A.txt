@@ -3,3 +3,4 @@ change2
 change3
 
 stash2
+stash master
