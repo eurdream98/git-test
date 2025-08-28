@@ -5,3 +5,6 @@ change4
 
 stash2
 stash master
+
+stash1
+stash2
