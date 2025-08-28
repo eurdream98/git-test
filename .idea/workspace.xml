@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc7e8d58-ea28-40ee-a2f8-a416d2539027" name="Changes" comment="" />
+    <list default="true" id="dc7e8d58-ea28-40ee-a2f8-a416d2539027" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/A.txt" beforeDir="false" afterPath="$PROJECT_DIR$/A.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +29,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "test1",
+    "git-widget-placeholder": "test2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/kodonghwan/test",
     "node.js.detected.package.eslint": "true",
@@ -54,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756356904213</updated>
       <workItem from="1756356905434" duration="1528000" />
-      <workItem from="1756358453146" duration="802000" />
+      <workItem from="1756358453146" duration="1262000" />
     </task>
     <servers />
   </component>
@@ -82,7 +84,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="test1" />
                       </list>
                     </value>
                   </entry>
