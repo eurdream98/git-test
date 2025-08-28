@@ -4,21 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f9dcd9d-e4b7-48d3-beeb-03e747afa2dd" name="Changes" comment="aborting commit" />
+    <list default="true" id="2f9dcd9d-e4b7-48d3-beeb-03e747afa2dd" name="Changes" comment="test3&#10;&#10;(cherry picked from commit 649cce7416136f7444366162604626ac442fd05b)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "Cherry-picking in test1",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eurdream98&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eurdream98/git-test.git&quot;,
+    &quot;accountId&quot;: &quot;2adbb57b-7b61-4738-a905-5c2e9dced64c&quot;
+  }
+}</component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;git-widget-placeholder&quot;: &quot;Cherry-picking in master&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="aborting commit">
       <option name="closed" value="true" />
@@ -28,11 +47,20 @@
       <option name="project" value="LOCAL" />
       <updated>1756362260080</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test3&#10;&#10;(cherry picked from commit 649cce7416136f7444366162604626ac442fd05b)">
+      <option name="closed" value="true" />
+      <created>1756363146955</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756363146955</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="aborting commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="aborting commit" />
+    <MESSAGE value="test3&#10;&#10;(cherry picked from commit 649cce7416136f7444366162604626ac442fd05b)" />
+    <option name="LAST_COMMIT_MESSAGE" value="test3&#10;&#10;(cherry picked from commit 649cce7416136f7444366162604626ac442fd05b)" />
   </component>
 </project>
